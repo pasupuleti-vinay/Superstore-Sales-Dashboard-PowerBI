@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard%20Screenshot/SuperstoreDashboard.png)
+![Dashboard](Dashboard%20Screenshot/Superstore%20Dashboard.png)
 
 ---
 
@@ -68,13 +68,13 @@ Sample Superstore Dataset
 Superstore-Sales-Dashboard-PowerBI
 │
 ├── Dashboard Screenshot
-│   └── dashboard.png
+│   └── Superstore Dashboard.png
 │
 ├── Dataset
-│   └── Sample Superstore.csv
+│   └── Sample-Superstore.csv
 │
 ├── PowerBI
-│   └── Superstore Dashboard.pbix
+│   └── Superstore dashboard.pbix
 │
 ├── README.md
 │
